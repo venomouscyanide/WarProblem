@@ -1,20 +1,20 @@
-#War Problem(geektrust.in)
+# War Problem(geektrust.in)
 Solution to the war problem on geektrust.in
 Set2Problem1
 
-##Problem Statement
+## Problem Statement
 https://www.geektrust.in/coding-problem/backend/war
 
-##Assumptions
+## Assumptions
 1.The planets need to be created as classes in the Planets folder
 2.The rules need to be created as and when required and coded in the defence_function file inside Defence folders
 
-##Usage
+## Usage
 '''
 python3 war.py
 '''
 
-#Some sample inputs with the expected outputs
+# Some sample inputs with the expected outputs
 
 Falicornia attacks with 200 H, 50 E,  24 AT, 10 SG [100, 29, 10, 5] True
 Falicornia attacks with 200 H, 100 E,  24 AT, 0 SG [100, 50, 10, 1] True
