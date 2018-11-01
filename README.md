@@ -6,9 +6,10 @@ Set2Problem1
 https://www.geektrust.in/coding-problem/backend/war
 
 ## Assumptions
-1.The planets need to be created as classes in the Planets folder
+```
+1.The planets need to be created as classes in the Planets folder 
 2.The rules need to be created as and when required and coded in the defence_function file inside Defence folders
-
+```
 ## Usage
 ```
 python3 war.py
