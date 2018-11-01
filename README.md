@@ -20,7 +20,7 @@ python3 war.py
 Falicornia attacks with 200 H, 50 E,  24 AT, 10 SG [100, 29, 10, 5] True 
 Falicornia attacks with 200 H, 100 E,  24 AT, 0 SG [100, 50, 10, 1] True
 Falicornia attacks with 220 H, 10 E,  0 AT, 10 SG [100, 10, 0, 5] True
-Falicornia attacks with 100 H, 101 E,  20 AT, 5 SG - [100, 29, 10, 5] True
+Falicornia attacks with 100 H, 101 E,  20 AT, 5 SG - [52, 50, 10, 3] True
 Falicornia attacks with 150 H, 96 E,  26 AT, 8 SG - COMBINED CASE [75, 50, 10, 5] True
 Falicornia attacks with 210 H, 0 E,  0 AT, 12 SG - 2 BORROW - [100, 3, 2, 5] True
 Falicornia attacks with 250 H, 50 E,  20 AT, 15 SG  - FAIL CASE [100, 38, 10, 5] False

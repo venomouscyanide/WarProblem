@@ -1,3 +1,4 @@
+from math import ceil
 def defend_planet(defendor_army,attacker_army):
 	'''
 	The primary function that helps calculate
