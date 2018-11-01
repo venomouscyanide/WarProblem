@@ -14,7 +14,7 @@ https://www.geektrust.in/coding-problem/backend/war
 python3 war.py
 ```
 
-# Some sample inputs with the expected outputs
+### Some sample inputs with the expected outputs
 ```
 Falicornia attacks with 200 H, 50 E,  24 AT, 10 SG [100, 29, 10, 5] True 
 Falicornia attacks with 200 H, 100 E,  24 AT, 0 SG [100, 50, 10, 1] True
