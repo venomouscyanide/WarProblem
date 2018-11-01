@@ -96,7 +96,7 @@ def defend_planet(defendor_army,attacker_army):
 		is there is still deficit of weapons defender loses
 		'''
 		weapon_in_battle_def.append(False)
-		return(weapon_in_battle_def,False)
+		return(weapon_in_battle_def)
 	else:
 		'''
 		defender wins when the weapon numbers are matched
