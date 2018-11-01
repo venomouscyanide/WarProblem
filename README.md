@@ -1,4 +1,4 @@
-# War Problem(geektrust.in)
+# War Problem
 Solution to the war problem on geektrust.in
 Set2Problem1
 
@@ -10,13 +10,13 @@ https://www.geektrust.in/coding-problem/backend/war
 2.The rules need to be created as and when required and coded in the defence_function file inside Defence folders
 
 ## Usage
-'''
+```
 python3 war.py
-'''
+```
 
 # Some sample inputs with the expected outputs
-
-Falicornia attacks with 200 H, 50 E,  24 AT, 10 SG [100, 29, 10, 5] True
+```
+Falicornia attacks with 200 H, 50 E,  24 AT, 10 SG [100, 29, 10, 5] True 
 Falicornia attacks with 200 H, 100 E,  24 AT, 0 SG [100, 50, 10, 1] True
 Falicornia attacks with 220 H, 10 E,  0 AT, 10 SG [100, 10, 0, 5] True
 Falicornia attacks with 100 H, 101 E,  20 AT, 5 SG - [100, 29, 10, 5] True
@@ -30,3 +30,4 @@ Falicornia attacks with 500 H, 10455 E,  600 AT, 200 SG [100, 50, 10, 5] False
 Falicornia attacks with 50 H, 104 E, 6 AT, 2 SG [29, 50, 3, 1] True
 Falicornia attacks with 150 H, 150 E, 18 AT, 10 SG [100, 50, 10, 5] False
 Falicornia attacks with 150 H, 130 E, 18 AT, 10 SG [100, 50, 10, 5] True
+```
